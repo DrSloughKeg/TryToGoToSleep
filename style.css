@@ -1,0 +1,33 @@
+header {
+  margin-top: 200px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: #b49fff;
+}
+body {
+  max-width: 1200px;
+  width: 75%;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+  color: #b49fff;
+}
+
+.outerbox {
+  margin: 10px;
+}
+
+.choice {
+}
+
+.choice a {
+  display: block;
+  height: auto;
+  width: auto;
+  background-color: rgb(4, 18, 65);
+  border: solid;
+  border-width: 5px;
+  border-radius: 10px;
+  color: #b49fff;
+  padding: 20px;
+}
